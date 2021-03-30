@@ -1,0 +1,183 @@
+
+body
+{
+  margin: 0;
+  background-color: #cee6b4;
+}
+
+.topcon
+{
+  background-color: #289672;
+  padding: 100px;
+  text-align: center;
+  position:relative;
+
+}
+
+.bottomcloud
+
+{
+  position:absolute;
+}
+
+.topcloud
+{
+  position: absolute;
+  right: 500px;
+  top: 50px;
+
+}
+
+h1
+{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin-bottom: 0;
+  color: #184d47;
+}
+
+.pro
+ {
+   text-decoration: underline;
+   font-size: 2.3rem;
+   color: #184d47;
+ }
+
+ p
+ {
+  font-family: 'Merienda One', cursive;
+ }
+
+
+ .middlecon
+ {
+   text-align: center;
+ }
+
+ .profileimg
+ {
+   width: 267px;
+   padding-top: 38px;
+ }
+ h2
+ {
+     font-family: 'Sacramento', cursive;
+     font-size: 3.5rem;
+     color: #184d47;
+
+ }
+ hr
+ {
+   width: 50%;
+   border-style: none;
+   border-top: dashed;
+   color: #289672;
+   height: 0;
+   background-color: white;
+ }
+
+ .skill1img
+ {
+   width: 267px;
+   float: left;
+
+ }
+ .skill1
+ {
+   margin-top:96px;
+   width: 50%;
+   position: relative;
+   left: 385px;
+   top: 50px;
+ }
+h3
+{
+  font-size: 1.7rem;
+  color: #289672;
+ }
+.skillpara
+{
+margin-left: 293px;
+}
+.skill2img
+{
+  width: 267px;
+  float: left;
+}
+.skill2
+{
+  margin-top: 200px;
+  width: 50%;
+  position: relative;
+  left: 385px;
+}
+.skill1para
+{
+  margin-left: 293px;
+}
+
+.ccontactme
+{
+  text-align: center;
+  margin-top: 100px;
+}
+.btn {
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   color: #FFFFFF;
+   font-family: Garamond;
+   font-size: 24px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #000000;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #289672 7px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #000000;
+   border: solid #00E2FF 5px;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
+
+.socialmedia
+{
+  text-align: center;
+  margin-top: 100px;
+  background-color: #289672;
+  height: 70px;
+  padding-top: 30px;
+
+}
+.s1
+{
+  text-align: center;
+  padding-right: 30px;
+  color: #184d47;
+}
+.s2
+{
+  color: #184d47;
+  padding-right: 30px;
+}
+.s3
+{
+  color: #184d47;
+  padding-right: 30px;
+}
+
+.pra1
+{
+  color: #184d47;
+}
